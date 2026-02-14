@@ -1,78 +1,84 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"/><img src="https://img.icons8.com/color/48/000000/walter-white.png" width="50px" height="50px"/>
+# Hi 👋, I'm Navin Kumar  
 
-<a href="https://www.linkedin.com/in/navin0299/" target="_blank">
-  <img align="left" alt="Navin's LinkdeIN" width="24px" height="22px" src="/linkedin.gif?raw=true" />
-</a>
+🚀 **Software Engineer | Backend & Distributed Systems Enthusiast | Full Stack Developer**
 
-<a href="mailto: navinkumar0299@gmail.com" target="_blank">
-  <img align="left" alt="Navin's Email" width="24px" height="20px" src="https://media.giphy.com/media/UShcAHeMQvM708tGdY/giphy.gif" />
-</a>
+I’m a software engineer from India with experience building scalable backend systems and full-stack applications.  
+Currently preparing for **Senior Software Engineer roles** and exploring **microservices, distributed systems, and Golang**.
 
-![](https://visitor-badge.glitch.me/badge?page_id=kn999.kn999)
+---
 
-<br />
+## 🧑‍💻 About Me
 
-Hi, I'm Navin Kumar, a Full Stack Developer 🚀 from India, currently, I'm looking for **NEW OPPORTUNITIES** and have previously worked as a Full Stack Developer 🙍🏽‍♂️ Innovatiview. Beside's programming, I enjoy traveling and reading.
+- 💼 Former **Full Stack Developer at Innovatiview**
+- 🔍 Currently open to **new opportunities**
+- 🌱 Learning **Golang, Microservices, System Design**
+- ⚡ Strong interest in **scalable architecture & backend engineering**
+- 💬 Ask me about **Backend, APIs, Databases, System Design**
 
-  <img align="right" alt="GIF" src="/code.gif?raw=true" width="500" height="320" />
-  
-**Talking about Personal Stuffs:**
+---
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently practicing Golang and Micro Services; 
-- 💬 Ask me about anything, I am happy to help;
+## 🛠️ Tech Stack
 
-<br>
+### Languages
+- Go
+- JavaScript / TypeScript
+- C++
 
-**Languages and Tools:**  
+### Frontend
+- React
+- CSS
+- Webpack
+- Gatsby
 
-Languages:
-<span>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25px" width="25px"></img>
-</span>
+### Backend
+- Node.js
+- Go (Gin)
+- GraphQL / REST / gRPC
+- Redis
+- Kafka
+- RabbitMQ
 
-  <img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=kn999&show_icons=true&theme=nightowl" />
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
 
-Web Front End:
-<span>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="25px" width="25px"></img>
-</span>
+### DevOps & Tools
+- Docker
+- Kubernetes (learning)
+- Git
+- Linux
+- Bash
 
-Back End:
-<span>
-<img style="margin: 0 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Go-Gin" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://raw.githubusercontent.com/apollographql/apollo-client/master/docs/source/logo/favicon.png" alt="Apollo" height="25px" width="25px"></img>
-</span>
+---
 
-Databases:
-<span>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25px" width="25px"></img>
-</span>
+## 📊 GitHub Stats
 
-APIs:
-<span>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://raw.githubusercontent.com/cncf/artwork/master/projects/grpc/pancake/color/grpc-pancake-color.svg" alt="gRPC" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://miro.medium.com/max/599/1*uHzooF1EtgcKn9_XiSST4w.png" alt="Rest" height="25px" width="25px"></img>
-</span>
+![Navin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kn999&show_icons=true&theme=tokyonight)
 
-Dev-Ops (in progress):
-<span>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25px" width="25px"></img>
-<img style="margin: 0 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25px" width="25px"></img>
-</span>
-<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kn999&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Featured Projects
+
+- https://github.com/KN999/FindThatShop
+- https://github.com/KN999/Slambook
+- https://github.com/KN999/nowandme-v1
+
+Example:
+
+- 🔹 **Expense Manager App** — Full stack expense tracking system  
+- 🔹 **Distributed Job Queue** — Kafka based scalable worker system  
+- 🔹 **URL Shortener** — High performance backend system  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/navin0299/
+- 📧 Email: navinkumar0299@gmail.com
+
+---
+
+⭐️ From [Navin Kumar](https://github.com/kn999)
