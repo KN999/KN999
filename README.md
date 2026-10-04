@@ -1,6 +1,6 @@
 # Hi 👋, I'm Navin Kumar  
 
-🚀 **Software Engineer | Backend & Distributed Systems Enthusiast | Full Stack Developer**
+🚀 **Software Engineer 2 @ Salesforce | Ex-Amazon | Backend & Distributed Systems Enthusiast | Full Stack Developer**
 
 I’m a software engineer from India with experience building scalable backend systems and full-stack applications.  
 Currently preparing for **Senior Software Engineer roles** and exploring **microservices, distributed systems, and Golang**.
@@ -20,7 +20,7 @@ Currently preparing for **Senior Software Engineer roles** and exploring **micro
 ## 🛠️ Tech Stack
 
 ### Languages
-- Go
+- Java
 - JavaScript / TypeScript
 - C++
 
@@ -32,7 +32,7 @@ Currently preparing for **Senior Software Engineer roles** and exploring **micro
 
 ### Backend
 - Node.js
-- Go (Gin)
+- Spring Boot
 - GraphQL / REST / gRPC
 - Redis
 - Kafka
@@ -45,7 +45,7 @@ Currently preparing for **Senior Software Engineer roles** and exploring **micro
 
 ### DevOps & Tools
 - Docker
-- Kubernetes (learning)
+- Kubernetes
 - Git
 - Linux
 - Bash
@@ -78,7 +78,3 @@ Example:
 
 - 💼 LinkedIn: https://www.linkedin.com/in/navin0299/
 - 📧 Email: navinkumar0299@gmail.com
-
----
-
-⭐️ From [Navin Kumar](https://github.com/kn999)
