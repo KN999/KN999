@@ -9,8 +9,8 @@ Currently preparing for **Senior Software Engineer roles** and exploring **micro
 
 ## 🧑‍💻 About Me
 
-- 💼 Former **Full Stack Developer at Innovatiview**
-- 🔍 Currently open to **new opportunities**
+- 💼 Former **Software Engineer at Amazon**
+- 🔍 Open to **new opportunities**
 - 🌱 Learning **Golang, Microservices, System Design**
 - ⚡ Strong interest in **scalable architecture & backend engineering**
 - 💬 Ask me about **Backend, APIs, Databases, System Design**
